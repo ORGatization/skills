@@ -2,6 +2,7 @@
 The repository for skills map lab testing
 
 # TODO 
-- [ ] - make some chnages in readme on this repo 
-
+ 
 # DONE
+
+- [X] - make some changes in readme on this repo
